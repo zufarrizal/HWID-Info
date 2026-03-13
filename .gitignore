@@ -1,0 +1,6 @@
+dist/
+*.user
+*.suo
+*.cache
+Thumbs.db
+Desktop.ini
